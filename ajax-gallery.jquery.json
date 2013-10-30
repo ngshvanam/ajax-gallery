@@ -2,13 +2,13 @@
     "name": "ajax-gallery",
     "title": "jQuery ajax galley",
     "description": "jQuery plugin for loading gallery images progressively when the scolbar hits bottom of the pageS.",
-    "demo" : "http://ajax-gallery.herokuapp.com/images.html",
+    "demo" : "http://jq-plugins.herokuapp.com/images.html",
     "keywords": [
         "ajax",
         "gallery",
 	"images"
     ],
-    "version": "1.0.5",
+    "version": "1.0.6",
     "author": {
         "name": "Nagesh Vanam",
         "url": "https://github.com/ngshvanam/ajax-gallery/blob/master/README.md"
