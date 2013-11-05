@@ -8,7 +8,7 @@
         "gallery",
 	"images"
     ],
-    "version": "1.0.7",
+    "version": "1.0.8",
     "author": {
         "name": "Nagesh Vanam",
         "url": "https://github.com/ngshvanam/ajax-gallery/blob/master/README.md"
@@ -23,7 +23,7 @@
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+            "url": "https://github.com/ngshvanam/ajax-gallery/blob/master/MIT-LICENSE.txt"
         }
     ],
     "bugs": "https://github.com/ngshvanam/ajax-gallery/issues",
