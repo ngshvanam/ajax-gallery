@@ -8,7 +8,7 @@
         "gallery",
 	"images"
     ],
-    "version": "1.0.8",
+    "version": "1.0.9",
     "author": {
         "name": "Nagesh Vanam",
         "url": "https://github.com/ngshvanam/ajax-gallery/blob/master/README.md"
@@ -29,7 +29,7 @@
     "bugs": "https://github.com/ngshvanam/ajax-gallery/issues",
     "homepage": "https://github.com/ngshvanam/ajax-gallery/blob/master/README.md",
     "docs": "https://github.com/ngshvanam/ajax-gallery/blob/master/README.md",
-    "download": "https://github.com/ngshvanam/ajax-gallery",
+    "download": "https://github.com/ngshvanam/ajax-gallery/archive/master.zip",
     "dependencies": {
         "jquery": ">=1.5"
     }
