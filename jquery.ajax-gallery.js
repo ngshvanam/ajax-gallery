@@ -68,6 +68,7 @@
 									+ '"></img></div>');
 					
 				}
+				$(".display-item img",container).unbind("click");
 				$(".display-item img",container).click(function(){
 					settings.onSelect($(this).attr("src"));
 				});
